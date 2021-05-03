@@ -1,0 +1,18 @@
+{
+  "anytime": ["Recuerda lavar correctamente tus manos"],
+  "morning": [
+    "¡Buenos días, sol!",
+    "¿Quién necesita café cuando tienes tu sonrisa?",
+    "¡Ve por ellos, Tigre!"
+  ],
+  "afternoon": [
+    "¡Dando pasos!",
+    "¡Estás haciendo la diferencia!",
+    "¡Eres más divertido que el plástico de burbujas!"
+  ],
+  "evening": [
+    "Hiciste sonreír a alguien hoy, lo sé",
+    "Estás haciendo la diferencia.",
+    "El día fue mejor para tus esfuerzos"
+  ]
+}
